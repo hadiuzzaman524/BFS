@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563718816 source:c:\users\asus\desktop\baust contest\adjacency list\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
